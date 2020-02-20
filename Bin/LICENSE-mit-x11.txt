@@ -1,0 +1,7 @@
+Copyright © 1991-2015 by Jamie Zawinski. Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. No representations are made about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
+
+------------------------------------------------------------------------
+
+NOTICE: THIS FILE IS BUNDLED WITH THE "DICE" SOFTWARE AND THE LICENSE ABOVE IS REPRESENTATIVE OF THE "XSCREENSAVER" SOFTWARE ONLY.
+PLEASE CONSULT GNU GPLV3 IN REGARDS TO THE LICENSE OF THE "DICE" SOFTWARE.
+THIS NOTICE IS NOT PART OF THE "XSCREENSAVER" SOFTWARE LICENSE AND HAS BEEN PLACED HERE TO CREATE CLARITY.
