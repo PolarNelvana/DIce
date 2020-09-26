@@ -1,5 +1,8 @@
 # Dice
+
 <em>A screensaver randomizer program that contains a collection of various screensavers from different operating systems</em>
+
+![Screenshot](/Screenshot.png)
 
 <h2>HOW TO BUILD AND COMPILE:</h2>
 
